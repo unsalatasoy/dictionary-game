@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alfabetik-siralama-oyunu/static/css/main.c6dcd6c1.css",
+    "main.js": "/alfabetik-siralama-oyunu/static/js/main.cf85bd5b.js",
+    "static/js/453.edc71caf.chunk.js": "/alfabetik-siralama-oyunu/static/js/453.edc71caf.chunk.js",
+    "index.html": "/alfabetik-siralama-oyunu/index.html",
+    "main.c6dcd6c1.css.map": "/alfabetik-siralama-oyunu/static/css/main.c6dcd6c1.css.map",
+    "main.cf85bd5b.js.map": "/alfabetik-siralama-oyunu/static/js/main.cf85bd5b.js.map",
+    "453.edc71caf.chunk.js.map": "/alfabetik-siralama-oyunu/static/js/453.edc71caf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6dcd6c1.css",
+    "static/js/main.cf85bd5b.js"
+  ]
+}
