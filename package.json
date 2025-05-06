@@ -1,7 +1,7 @@
 {
   "name": "dictionary-game",
   "version": "0.1.0",
-  "homepage": "https://unsalatasoy.github.io/alfabetik-siralama-oyunu",
+  "homepage": "https://unsalatasoy.github.io/dictionary-game",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
